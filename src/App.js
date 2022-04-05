@@ -10,6 +10,11 @@ const cardImages = [
 ]
 
 function App() {
+
+  
+  // shuffle cards 
+
+
   return (
     <div className="App">
       <h1>Magic Match</h1>
